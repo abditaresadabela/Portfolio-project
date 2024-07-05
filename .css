@@ -1,0 +1,174 @@
+/* Global styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+/* Navbar styles */
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+#navbar ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+#navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+/* Welcome section styles */
+#welcome-section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+
+#welcome-section h1 {
+    font-size: 48px;
+}
+
+
+/* Projects section styles */
+#projects {
+    padding: 50px 0;
+    background-color: #fff;
+    text-align: center;
+}
+
+
+.project-tile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.project-tile h2 {
+    font-size: 24px;
+}
+
+
+.project-tile p {
+    font-size: 18px;
+}
+
+
+.project-tile a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.project-tile a:hover {
+    background-color: #555;
+}
+
+
+/* Collaboration section styles */
+#collaboration {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+
+#collaboration h2 {
+    font-size: 36px;
+    margin
+/* Challenges section styles */
+#challenges {
+    padding: 50px;
+    background-color: #f0f0f0;
+    text-align: center; /* Center-align text */
+    margin: 0 auto; /* Center the section horizontally */
+    max-width: 800px; /* Set maximum width */
+}
+
+
+#challenges h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
+#challenges p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+/* Progress section styles */
+#progress {
+    padding: 50px;
+    background-color: #e0e0e0;
+    text-align: center; /* Center-align text */
+    margin: 0 auto; /* Center the section horizontally */
+    max-width: 800px; /* Set maximum width */
+}
+
+
+#progress h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
+#progress p {
+    font-size: 18px;
+    margin-bottom: 10px;
+
+
+}
+
+
+/* Project Updates section styles */
+#project-updates {
+    padding: 50px;
+    background-color: #d0d0d0;
+    text-align: center; /* Center-align text */
+    margin: 0 auto; /* Center the section horizontally */
+    max-width: 800px; /* Set maximum width */
+}
+
+
+#project-updates h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+
+#project-updates p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+
